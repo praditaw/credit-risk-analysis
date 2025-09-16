@@ -62,7 +62,7 @@ Based on these findings, I recommend a proactive, three-part strategy to minimiz
 
 ---
 
-Thank you for taking the time to check out my project! I enjoyed the challenge of taking this project from a raw CSV file to a complete, interactive dashboard. My goal was to not just analyze the data, but to tell a clear story that could lead to real business actions.
+Thank you for taking the time to check out my project! I enjoyed the challenge of taking this project from a raw xls file to a complete, interactive dashboard. My goal was to not just analyze the data, but to tell a clear story that could lead to real business actions.
 
 I'm always eager to learn and discuss different approaches to solving problems with data. If you have any questions, feedback, or just want to connect, please feel free to reach out!
 
