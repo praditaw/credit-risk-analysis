@@ -4,7 +4,7 @@
 
 The final output of this project is a two-page interactive dashboard built in Tableau. This dashboard identifies high-risk customer segments and allows users to explore the key behavioral and demographic drivers of credit card default.
 
-### [Click Here to View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17453102811930/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+#### [Click Here to View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17453102811930/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -15,7 +15,9 @@ This project analyzes a dataset of 30,000 credit card clients in Taiwan to under
 In the financial industry, credit card default is a significant source of financial loss. This project aims to answer three key business questions:
 
 **1. What customer details (like age, payment history, etc.) are the best signs that a customer will default?**
+
 **2. Which groups of customers have the highest risk of defaulting?**
+
 **3. What actions can the company take to lower the number of defaults?**
 
 ## 3. The Dataset
